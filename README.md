@@ -6,11 +6,14 @@
 
 ## Description
 A simple classification based ML model that can be used to predict the species of a flower out of 102 species by uploading its image. A Wikipedia link for the same is generated as well. 
+
 It uses VGG16: VGG16 is a convolutional neural network model that's used for image recognition. It has 16 layers that have weights. It's considered one of the best vision model architectures.
+
 Rest of the details are mentioned in the .ipynb file.
 
 ## Dataset Used: 
 Oxford 102 Category Flower Dataset
+
 Link: https://www.kaggle.com/datasets/haseeb85/oxford-102-category-flower-dataset
 
 ## Directory Structure:
