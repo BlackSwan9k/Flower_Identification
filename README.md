@@ -17,7 +17,7 @@ Oxford 102 Category Flower Dataset
 Link: https://www.kaggle.com/datasets/haseeb85/oxford-102-category-flower-dataset
 
 ## Directory Structure:
-- Dataset : contains the dataset
+- Dataset.rar : contains the dataset
 - flower102save : contains the trained model
 - Prediction : images to be predicted by the model
 - app.py : Web Interface to upload images and generate a Wikipedia Link for the predicted flower
